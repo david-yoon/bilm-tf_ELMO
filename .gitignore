@@ -1,4 +1,7 @@
 
+*.ipynb
+*TEST*
+
 bilm.egg-info/
 dist/
 build/
