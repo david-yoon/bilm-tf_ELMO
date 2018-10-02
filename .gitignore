@@ -1,5 +1,5 @@
 
-*.ipynb
+data
 *TEST*
 
 bilm.egg-info/
